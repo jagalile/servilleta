@@ -1,5 +1,7 @@
 # Local files
 configuration/config.ini
+chromedriver/
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
